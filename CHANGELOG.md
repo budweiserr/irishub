@@ -8,6 +8,7 @@
 
 ### Application
 
+* [\#2541](https://github.com/irisnet/irishub/pull/2541) Bump cosmos-sdk version to [ v0.41.0](https://github.com/cosmos/cosmos-sdk/releases/tag/v0.41.0)
 * [\#2560](https://github.com/irisnet/irishub/pull/2560) Bump irismod version to [v1.3.0](https://github.com/irisnet/irismod/releases/tag/v1.3.0)
 * [\#2551](https://github.com/irisnet/irishub/pull/2551) Disable repeated service invocation
 * [\#2542](https://github.com/irisnet/irishub/pull/2542) Migrate withdraw infos
